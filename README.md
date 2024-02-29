@@ -1,1 +1,1 @@
-# Object-oriented programming-University-Course-Project
+# Object-oriented programming-GUI
